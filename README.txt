@@ -1,5 +1,5 @@
 1. Install selenium library
-2. Install Chreome driver
+2. Install Chrome driver
 3. Install Gecko driver
 4. For Google Chrome using you need to delete your Chrome verion and install 93.0.4577.63 version.
 5. In constants.py to change USERNAME, PASSWORD, SEMESTER (1 for ב and 0 for א), (if you have english course - add 3 to semester number), and COURSES
